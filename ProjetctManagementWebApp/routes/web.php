@@ -3,8 +3,8 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\StudentController;
 
-Route::get('/', function () {
-    return view('Student');
-});
+// Đặt route '/' gọi đến StudentController@index
+Route::get('/', [StudentController::class, 'index']);
 
-Route::get('/student', [StudentController::class, 'index'])->name('student');
+// Route khác (nếu cần)
+Route::get('/students', [StudentController::class, 'index']);
