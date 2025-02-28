@@ -74,6 +74,8 @@ d.	Bên liên quan (Stakeholder): Xem báo cáo, tiến độ và các thông ti
 -	Xuất báo cáo định kỳ (PDF/Excel) về tiến độ, chi phí, và chất lượng.
   
 -	Gửi báo cáo cho stakeholders.
+
+![Imgur](https://imgur.com/27WmW05.png)
   
 #### 2.	Thành viên đội dự án (Project Team Member):
 
@@ -98,6 +100,8 @@ d.	Bên liên quan (Stakeholder): Xem báo cáo, tiến độ và các thông ti
 **d.	Xem tiến độ:**
 
 -	Theo dõi trạng thái tổng quan của dự án và tiến độ công việc liên quan.
+
+![Imgur](https://imgur.com/5FPpfCN.png)
   
 #### 3.	Các bên liên quan (Stakeholders):
 
@@ -118,6 +122,8 @@ d.	Bên liên quan (Stakeholder): Xem báo cáo, tiến độ và các thông ti
 **d.	Không chỉnh sửa thông tin:**
 
 -	Hạn chế truy cập các chức năng thao tác trực tiếp với dự án.
+
+![Imgur](https://imgur.com/FiemHcp.png)
   
 #### 4.	Quản trị viên hệ thống (Admin):
 
@@ -139,6 +145,8 @@ d.	Bên liên quan (Stakeholder): Xem báo cáo, tiến độ và các thông ti
   
 -	Sao lưu và khôi phục dữ liệu.
 -	Bảo mật hệ thống và xử lý các sự cố bảo mật.
+
+![Imgur](https://imgur.com/nseRyI7.png)
 
 ### III: Sơ đồ chức năng
 
