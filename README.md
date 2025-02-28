@@ -155,11 +155,15 @@ d.	Bên liên quan (Stakeholder): Xem báo cáo, tiến độ và các thông ti
 
 ![Imgur](https://imgur.com/IPpJzA2.png)
 
-#### 2. Use-case Diagram
+#### 2. Sơ đồ chức năng
+
+![Imgur](https://imgur.com/hKd5sjw.png)
+
+#### 3. Use-case Diagram
 
 ![Imgur](https://imgur.com/KFq1LNr.png)
 
-#### 3. Sequence Diagram
+#### 4. Sequence Diagram
 
 ![Imgur](https://imgur.com/SQ9OABW.png)
 
