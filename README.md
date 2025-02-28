@@ -75,7 +75,7 @@ d.	Bên liên quan (Stakeholder): Xem báo cáo, tiến độ và các thông ti
   
 -	Gửi báo cáo cho stakeholders.
 
-![Imgur](https://imgur.com/27WmW05.png)
+![Imgur](https://imgur.com/4WJUqmx.png)
   
 #### 2.	Thành viên đội dự án (Project Team Member):
 
@@ -101,7 +101,7 @@ d.	Bên liên quan (Stakeholder): Xem báo cáo, tiến độ và các thông ti
 
 -	Theo dõi trạng thái tổng quan của dự án và tiến độ công việc liên quan.
 
-![Imgur](https://imgur.com/5FPpfCN.png)
+![Imgur](https://imgur.com/l2fEtxC.png)
   
 #### 3.	Các bên liên quan (Stakeholders):
 
@@ -123,7 +123,7 @@ d.	Bên liên quan (Stakeholder): Xem báo cáo, tiến độ và các thông ti
 
 -	Hạn chế truy cập các chức năng thao tác trực tiếp với dự án.
 
-![Imgur](https://imgur.com/FiemHcp.png)
+![Imgur](https://imgur.com/atLrFZu.png)
   
 #### 4.	Quản trị viên hệ thống (Admin):
 
@@ -144,12 +144,65 @@ d.	Bên liên quan (Stakeholder): Xem báo cáo, tiến độ và các thông ti
 -	Kiểm tra và khắc phục lỗi.
   
 -	Sao lưu và khôi phục dữ liệu.
+-	
 -	Bảo mật hệ thống và xử lý các sự cố bảo mật.
 
-![Imgur](https://imgur.com/nseRyI7.png)
+![Imgur](https://imgur.com/OaT7Dei.png)
 
 ### III: Sơ đồ chức năng
 
-#### 1. Class Diagram
+#### 1. ER Diagram
 
-![Imgur](https://imgur.com/7vq2cke.png)
+![Imgur](https://imgur.com/IPpJzA2.png)
+
+#### 2. Use-case Diagram
+
+![Imgur](https://imgur.com/KFq1LNr.png)
+
+#### 3. Sequence Diagram
+
+![Imgur](https://imgur.com/SQ9OABW.png)
+
+### IV: Một số giao diện
+
+**a. Trang chủ**
+
+![Imgur](https://imgur.com/6Llzvwy.png)
+
+**b. Đăng nhập/Đăng ký**
+
+![Imgur](https://imgur.com/pI1ECES.png)
+
+![Imgur](https://imgur.com/bbmxBjw.png)
+
+**c. Dashboard**
+
+![Imgur](https://imgur.com/VAIb9DK.png)
+
+**d. Project**
+
+![Imgur](https://imgur.com/vq4Kvnl.png)
+
+**e. Milestone**
+
+![Imgur](https://imgur.com/N8stMGa.png)
+
+**f. Task**
+
+![Imgur](https://imgur.com/Sj4gEKO.png)
+
+**g. Report**
+
+![Imgur](https://imgur.com/fahmrMJ.png)
+
+**h. Risk**
+
+![Imgur](https://imgur.com/IVOZmku.png)
+
+### V: Demo
+
+**Tài khoản thử nghiệm:**
+
+**Email:** admin@gmail.com
+
+**Mật khẩu:** 66668888
