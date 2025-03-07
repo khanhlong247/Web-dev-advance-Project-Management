@@ -225,8 +225,26 @@ d.	Bên liên quan (Stakeholder): Xem báo cáo, tiến độ và các thông ti
 
 **Link:** http://10.6.136.78:8000
 
-**Tài khoản thử nghiệm:**
+**Tài khoản admin thử nghiệm:**
 
 **Email:** admin@gmail.com
+
+**Mật khẩu:** 66668888
+
+**Tài khoản team member thử nghiệm:**
+
+**Email:** tm@gmail.com
+
+**Mật khẩu:** 66668888
+
+**Tài khoản project manager thử nghiệm:**
+
+**Email:** pm@gmail.com
+
+**Mật khẩu:** 66668888
+
+**Tài khoản stakeholder thử nghiệm:**
+
+**Email:** st@gmail.com
 
 **Mật khẩu:** 66668888
