@@ -151,21 +151,21 @@ d.	Bên liên quan (Stakeholder): Xem báo cáo, tiến độ và các thông ti
 
 ### III: Sơ đồ chức năng
 
-#### 1. ER Diagram
+#### 1. Use-case Diagram
 
-![Imgur](https://imgur.com/IPpJzA2.png)
+![Imgur](https://imgur.com/KFq1LNr.png)
 
 #### 2. Sơ đồ chức năng
 
 ![Imgur](https://imgur.com/hKd5sjw.png)
 
-#### 3. Use-case Diagram
-
-![Imgur](https://imgur.com/KFq1LNr.png)
-
-#### 4. Sequence Diagram
+#### 3. Sequence Diagram
 
 ![Imgur](https://imgur.com/SQ9OABW.png)
+
+#### 4. ER Diagram
+
+![Imgur](https://imgur.com/IPpJzA2.png)
 
 ### IV: Một số giao diện
 
