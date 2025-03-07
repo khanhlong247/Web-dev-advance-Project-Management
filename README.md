@@ -203,7 +203,25 @@ d.	Bên liên quan (Stakeholder): Xem báo cáo, tiến độ và các thông ti
 
 ![Imgur](https://imgur.com/IVOZmku.png)
 
-### V: Demo
+### V. Cài đặt và chạy ứng dụng
+
+**Bước 1:** Tạo folder để chứa source code của dự án
+
+**Bước 2:** Tải code của dự án về bằng cách clone từ github
+
+- Sử dụng: `git clone https://github.com/khanhlong247/Web-dev-advance-Project-Management.git`
+
+**Bước 3:** Truy cập vào code của dự án
+
+- Đường dẫn tới source code: `<folder name>\project-management\`
+
+**Bước 4:** Chạy dự án
+
+- Chạy lệnh `npm run dev`
+
+- Sau đó chạy lệnh `php artisan serve`
+
+### VI: Demo
 
 **Link:** http://10.6.136.78:8000
 
