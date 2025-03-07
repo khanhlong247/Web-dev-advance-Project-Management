@@ -205,6 +205,8 @@ d.	Bên liên quan (Stakeholder): Xem báo cáo, tiến độ và các thông ti
 
 ### V: Demo
 
+**Link:** http://10.6.136.78:8000
+
 **Tài khoản thử nghiệm:**
 
 **Email:** admin@gmail.com
